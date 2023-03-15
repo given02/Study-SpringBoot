@@ -1,3 +1,3 @@
 # Study-SpringBoot
 
-SpringBoot와 JPA를 스터디 한 자료이다.
+SpringBoot, JPA 스터디
